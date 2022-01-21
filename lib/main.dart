@@ -6,6 +6,8 @@ import 'package:tetatet/screens/main_screen.dart';
 import 'package:tetatet/services/constants.dart';
 
 void main() async {
+
+  
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
 
